@@ -5,6 +5,7 @@ public class Main {
         Questao[] questoes = criarQuestoes();
         int pontuacao = 0;
         //teste
+        //teste2
 
         System.out.println("Bem-vindo ao Quiz!\n");
         System.out.println("Responda às questões com A, B, C, D ou E.\n");
