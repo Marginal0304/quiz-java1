@@ -4,8 +4,6 @@ public class Main {
         cabecalho.exibirInformacoes();
         Questao[] questoes = criarQuestoes();
         int pontuacao = 0;
-        
-
         System.out.println("Bem-vindo ao Quiz!\n");
         System.out.println("Responda às questões com A, B, C, D ou E.\n");
 
